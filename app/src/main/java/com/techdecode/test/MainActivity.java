@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Intent i = new Intent();
 
 
+        bu= findViewById(R.id.button3);
 
 
 
